@@ -21,3 +21,25 @@ def add num1, num2
 end
 
 puts add(1,3) + add(2,2)
+
+# app.rb
+puts "Hello world!"
+puts "Hello world!"
+puts "Hello world!"
+
+
+# app.rb
+print "Hello world!"
+print "Hello world!"
+print "Hello world!"
+print "Pass this test, please."
+
+# app.rb
+puts [1, 2, 3].inspect
+
+# This is the equivalent of calling:
+# puts [1, 2, 3].inspect
+p [1, 2, 3]
+
+# app.rb
+pp [{ id: 1, hello: "World" }, { id: 2, hello: "Ruby" }, { id: 3, hello: "Moon" }, { id: 4, hello: "Learner" }]
